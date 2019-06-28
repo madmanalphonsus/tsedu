@@ -25,11 +25,11 @@
   display: flex;
   justify-content: center;
   padding: 1em 0;
-  color: #fff;
+  color: black;
 }
 
 .arts-banner-nav a:hover,.arts-banner-nav a:focus{
-  color: #fff;
+  color: black;
   background-color: #3d90c2;
 }
 
@@ -40,7 +40,7 @@
 .arts-banner-dropdown-content {
   display: none;
   position: absolute;
-  background-color: #fff;
+  background-color: black;
   min-width: 160px;
   height: auto;
   box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.2);
@@ -61,7 +61,7 @@
 
 .arts-banner-btn{
   background-color: #a3d1ff;
-  color: #fff;
+  color: black;
   padding:6px 10px;
   border: 0;
   cursor: pointer;

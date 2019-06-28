@@ -1,11 +1,9 @@
 #section-0 .content{margin:0!important;}
 
-#section-0 .addresourcemodchooser,#section-0 .addresourcedropdown{display: none;}
-
 
 .arts-banner-nav {
   margin: 0; 
-  background: #006DAE;
+  background: #a3d1ff;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -46,13 +44,13 @@
   min-width: 160px;
   height: auto;
   box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.2);
-  transition: box-shadow 0.1s ease-in-out;
+  transition: box-shadow 0.05s ease-in-out;
   z-index: 1028;
 }
 .arts-banner-dropdown-content a {
   float: none;
   color: #000;
-  padding: 12px 16px;
+  padding: 8px 12px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -62,7 +60,7 @@
 
 
 .arts-banner-btn{
-  background-color: #006DAE;
+  background-color: #a3d1ff;
   color: #fff;
   padding:6px 10px;
   border: 0;

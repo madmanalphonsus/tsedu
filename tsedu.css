@@ -29,8 +29,7 @@
 }
 
 .arts-banner-nav a:hover,.arts-banner-nav a:focus{
-  color: #fff;
-  background-color: #3d90c2;
+  opacity: 0.8;
 }
 
 
@@ -74,7 +73,7 @@
   display: none;
 }
 .arts-banner-btn:hover{
-  background-color:#3d90c2;
+  background-color:#a3d1ff;
 }
 .arts-banner-btn i{
   display: none;

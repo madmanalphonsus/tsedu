@@ -8,6 +8,7 @@
 .fontAwesome {
   font-size: 1.5em;
    text-decoration: none !important;
+  width:100%;
 }
 .navFiller {
   background: #A3D1FF !important;

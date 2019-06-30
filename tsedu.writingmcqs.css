@@ -16,17 +16,17 @@
 }
 .navFiller, .boxStyles, .overlay, .overlay a, .zoomCard {
   background: #006737 !important;
-  color: black !important;
+  color: white !important;
   list-style:none !important;
   text-decoration: none !important;  
 }
 .zoomCard a {
   text-decoration: none !important;
-  color: black !important;
+  color: white !important;
 }
 .overlay a:hover, .zoomCard:hover, .zoomCard a:hover {
   background: #009951 !important;
-  color: black !important;
+  color: white !important;
   cursor: pointer;
   text-decoration: none !important;
 }

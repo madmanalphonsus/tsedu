@@ -47,9 +47,9 @@ function changeLinks(){
   //var id=url.substring(url.lastIndexOf('id=')+url.indexOf("&"));
   var id=getParameterByName("id");
 
-  //var alist=$(".arts-banner-nav a[href],.arts-banner-nav a[href]");
+  //var alist=$(".tims-nav a[href],.overlay-content a[href]");
   
-  $(".arts-banner-nav a[href], .arts-banner-nav-row a[href]").each(function(){
+  $(".tims-nav a[href], .overlay-content a[href]").each(function(){
     
     var src=$(this).attr("href");
     

@@ -71,19 +71,19 @@
     width: 350px;
 }  
 header .card {
-background: #006737 !important;
-color: white !important;
+background: #006737;
+color: white;
 }
 .page-header-headings {
-color: white !important;
+color: white;
 }
 div#action-menu-3-menu, header a {
 background: #006737;
 }
 div#action-menu-3-menu:hover, header a:hover {
-background: #006737;
+background: #009951;
+  color: white;
 }
 header a {
 color: white !important;
-background: #006737 !important;
 }

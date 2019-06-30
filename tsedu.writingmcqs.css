@@ -72,19 +72,19 @@
 }  
 header .card {
 background: #006737;
-color: white;
+color: white !important;
 }
 .page-header-headings {
-color: white;
+color: white !important;
 }
 div#action-menu-3-menu, header a, {
-background: #006737;
+background: #006737 !important;
 }
 div#action-menu-3-menu:hover, header a:hover,.dropdown-item a:hover {
-background: #006737;
-  color: white;
+background: #006737 !important;
+  color: white !important;
 }
 header a {
-color: white;
+color: white !important;
 }
 

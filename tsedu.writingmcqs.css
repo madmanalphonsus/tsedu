@@ -77,11 +77,11 @@ color: white;
 .page-header-headings {
 color: white;
 }
-div#action-menu-3-menu, header a, .dropdown-item a {
+div#action-menu-3-menu, header a, {
 background: #006737;
 }
 div#action-menu-3-menu:hover, header a:hover,.dropdown-item a:hover {
-background: #009951;
+background: #006737;
   color: white;
 }
 header a {

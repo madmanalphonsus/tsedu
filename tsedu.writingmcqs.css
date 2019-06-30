@@ -80,6 +80,9 @@ color: white !important;
 div#action-menu-3-menu, header a {
 background: #006737;
 }
+div#action-menu-3-menu:hover, header a:hover {
+background: #006737;
+}
 header a {
 color: white !important;
 background: #006737 !important;

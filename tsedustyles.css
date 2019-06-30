@@ -4,24 +4,34 @@ text-align: center;
 }
 .fontAwesome {
   font-size: 1.5em;
+   text-decoration: none !important;
 }
-.navFiller, .boxStyles, .overlay, .overlay a {
-  background: #A3D1FF;
+
+.navFiller, .boxStyles, .overlay, .overlay a, .zoomCard {
+  background: #A3D1FF !important;
+  color: black !important;
+  list-style:none !important;
+  text-decoration: none !important;
+}
+.zoomCard a {
+  text-decoration: none !important;
   color: black !important;
 }
-.overlay a:hover, .zoomCard:hover {
-  background: #72b8ff;
-  color: black;
+.overlay a:hover, .zoomCard:hover, .zoomCard a:hover {
+  background: #72b8ff !important;
+  color: black !important;
   cursor: pointer;
+  text-decoration: none !important;
 }
 .boxStyles, .zoomCard, .overlay-content, .closebtn {
     font-size: 1.5rem !important;
     font-family: 'roboto', sans-serif;
     text-align: center;
+   text-decoration: none !important;
 }
 .zoomCard {
     padding: 10px;
-  }
+   }
 .overlay {
     height: 100%;
     width: 0;

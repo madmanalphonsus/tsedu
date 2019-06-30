@@ -1,3 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.tims-nav li:first-child {
+  border-radius: 8px 0 0 8px !important;
+}
+.tims-nav li:last-of-type {
+  border-radius: 0 8px 8px 0 !important;
+}
+.fontAwesome {
+  font-size: 1.5em;
+   text-decoration: none !important;
+  width:100%;
+}
+.navFiller {
+  background: #006737 !important;
+  height: 7.1rem;
+}
+.navFiller, .boxStyles, .overlay, .overlay a, .zoomCard {
+  background: #006737 !important;
+  color: black !important;
+  list-style:none !important;
+  text-decoration: none !important;  
+}
+.zoomCard a {
+  text-decoration: none !important;
+  color: black !important;
+}
+.overlay a:hover, .zoomCard:hover, .zoomCard a:hover {
+  background: #009951 !important;
+  color: black !important;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+.boxStyles, .zoomCard, .overlay-content, .closebtn {
+    font-size: 1.5rem !important;
+    font-family: 'roboto', sans-serif;
+    text-align: center;
+   text-decoration: none !important;
+}
+.zoomCard {
+    padding: 10px;
+   }
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    transition: 0.1s;
+    opacity: 1;
+}
+.overlay a {
+    padding: 5px;
+    width: 150px;
+    margin: auto;
+}
+.overlay-content {
+    margin: auto;
+    
+    }
+.overlay a {
+    line-height: 1.5em;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    }
+.overlay .closebtn {
+    margin-top: 120px;
+    right: 45px;
+    width: 350px;
+}  
 header .card {
 background: #006737 !important;
 color: white !important;

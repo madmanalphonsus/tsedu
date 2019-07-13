@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-.tims-nav li:first-child {
-  border-radius: 8px 0 0 8px !important;
-}
-.tims-nav li:last-of-type {
-  border-radius: 0 8px 8px 0 !important;
-}
+
 .fontAwesome {
   font-size: 1.5em;
    text-decoration: none !important;

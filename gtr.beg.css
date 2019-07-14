@@ -74,17 +74,17 @@ padding: 20px 0px 20px 0px;
     width: 350px;
 }  
 header .card {
-background: #006737;
+background: #000;
 color: white !important;
 }
 .page-header-headings {
 color: white !important;
 }
 div#action-menu-3-menu, header a, .dropdown-item, dropdown-item a {
-background: #006737 !important;
+background: #000 !important;
 }
 div#action-menu-3-menu:hover, header a:hover,.dropdown-item, .dropdown-item a:hover {
-background: #006737 !important;
+background: #000 !important;
   color: white !important;
 }
 header a {

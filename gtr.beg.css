@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.image_holder {
+padding: 20px 0px 20px 0px;
+}
 .icon_content {
   line-height: 1.5rem;
   padding-bottom: 3rem;

@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
+#section-0 h3 {
+display: none !important;
+}
 .icon_content {
   line-height: 1.5rem;
   padding-bottom: 3rem;

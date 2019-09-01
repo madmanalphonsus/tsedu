@@ -1,0 +1,63 @@
+* {
+box-sizing: border-box
+} 
+.tabContainer {
+margin-bottom: 100px; 
+} 
+.tab { 
+float: left !important; 
+border: 3px solid #939598 !important; 
+background-color: #094C93 !important; 
+width: 40% !important; 
+height: 750px !important; 
+color: white !important; 
+border-radius: 0px !important; 
+margin-bottom: 20px;
+font-size: 1rem !important; 
+}
+p { 
+font-family: helvetica; line-height: 1.25rem; 
+} 
+.tab .tablinks { 
+display: block !important; 
+background-color: #3C6BA4 !important; 
+color: white !important; 
+padding-left: 5px !important; 
+width: 100% !important; 
+height: 5.882% !important; 
+margin: 0px; border: none !important; 
+outline: none !important; 
+text-align: left !important; 
+cursor: pointer !important; 
+transition: 0.3s !important; 
+font-size: 1rem !important; 
+font-family: Helvetica; 
+font-weight: lighter; 
+} 
+.tab .tablinks:hover { 
+background-color: #939598 !important; 
+} 
+.tab .tablinks.active { 
+background-color: #939598 !important; 
+} 
+.tabcontent { 
+float: left !important; 
+padding: 0px 12px !important; 
+border: 3px solid #939598 !important;
+width: 60% !important;
+border-left: none !important; 
+height: 750px !important;
+line-height: 1.25rem; 
+font-family: helvetica;
+font-size: 1rem; 
+} 
+.contentLists { 
+list-style: none; 
+margin-bottom: 20px; 
+} 
+.firstParagraph { 
+margin-top:20px; 
+} 
+body {
+text-align: justify;
+}

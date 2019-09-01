@@ -1,0 +1,50 @@
+
+.noUnderline {
+text-decoration: none !important;
+}
+#instance-2326192-header {
+background: #138496 !important;
+color: #fff !important;
+}
+.headingStyle {
+background: #138496 !important; 
+color: #fff !important; 
+cursor: pointer !important; 
+border: solid 1px #138496 !important;
+}
+
+.headingStyle:hover {
+background-color: #17a2b8 !important;
+cursor: pointer !important;
+}
+
+.preambleStyle {
+border: 2px solid #138496 !important; 
+border-bottom: 0px !important; 
+margin-bottom: 0px !important;
+}
+.btnCustom {
+background: #17a2b8 !important; 
+color: white !important;
+}
+.btnCustom:hover {
+background: #138496 !important; 
+color: white !important;
+}
+.bottomHeading {
+border-left: solid 2px #138496; 
+border-right: solid 2px #138496; 
+border-bottom: solid 2px #138496; 
+border-radius: 0px 0px 5px 5px;
+}
+.cardBodyBorder {
+border-left: solid 2px #138496; 
+border-right: solid 2px #138496;
+}
+.content {
+margin-top: 0px !important;
+}
+#inst2326192 .action-menu, #inst2326192 .dropdown-toggle {
+color: #fff !important;
+}
+

@@ -1,0 +1,46 @@
+/*remove link underline*/
+.noUnderline {
+text-decoration: none !important;
+}
+/*button style on collapsing accordion*/
+.headingStyle {
+background: #138496 !important; 
+color: #fff !important; 
+cursor: pointer !important; 
+border: solid 1px #006737 !important;
+}
+.headingStyle:hover {
+background-color: #009951 !important;
+cursor: pointer !important;
+}
+/*style on preamble before collapsing accordion*/
+.preambleStyle {
+border: 2px solid #006737 !important; 
+border-bottom: 0px !important; 
+margin-bottom: 0px !important;
+}
+/*style on button inside the card-body if a button is needed to direct to an external site or section*/
+.btnCustom {
+background: #009951 !important; 
+color: white !important;
+}
+.btnCustom:hover {
+background: #006737 !important; 
+color: white !important;
+}
+/*style on last heading of collapsing accordion to ensure rounded bottoms*/
+.bottomHeading {
+border-left: solid 2px #006737; 
+border-right: solid 2px #006737; 
+border-bottom: solid 2px #006737; 
+border-radius: 0px 0px 5px 5px;
+}
+/*style on card body to ensure borders left and right*/
+.cardBodyBorder {
+border-left: solid 2px #006737; 
+border-right: solid 2px #006737;
+}
+/*remove margin from the top of the content*/
+.content {
+margin-top: 0px !important;
+}

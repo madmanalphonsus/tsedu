@@ -38,7 +38,7 @@ margin: auto !important;
   color:black;
   font-weight:normal;
   white-space:pre-wrap;
-  content:" - Your assessment will now be available for you to complete. \00000A - Alternatively, you may choose review this lesson material again before continuing.";
+  content:" - You can now to continue onto the next activity \00000A - Or review this lesson material again before continuing.";
 }
 .generalbox p::before{
   color:black;

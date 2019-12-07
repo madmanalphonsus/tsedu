@@ -6,3 +6,6 @@ display: none !important;
 width: 50% !important;
 margin: auto !important;
 }
+.singlebutton {
+  float: right !important;
+}

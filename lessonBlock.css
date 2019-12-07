@@ -98,4 +98,8 @@ a.lessonbutton:hover {
   background-color: #5cb85c;
   border:1px solid black;
   border-radius: 5px !important;
+  font-size: 1.4rem !important;
+}
+.progress {
+  height: 2rem !important;
 }

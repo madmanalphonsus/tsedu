@@ -34,16 +34,18 @@ margin: auto !important;
 }
 .generalbox p::after {
   display:block;
+  line-height: 1.5rem;
   max-width:100%;
   color:black;
   font-weight:normal;
   white-space:pre-wrap;
-  content:" - You can now to continue onto the next activity \00000A - Or review this lesson material again before continuing.";
+  content:"✱ You can now to continue onto the next activity 👉. \00000A ✱ 👈 Or review this lesson material again before continuing.";
 }
 .generalbox p::before{
   color:black;
-  content:'👍 \00000A You completed the activity. ';
+  content:'👍 \00000A You completed the activity. Where to next?';
   font-size:1.5em;
+  margin-bottom: 1rem;
 }
 
 /***END-OF-LESSON LINKS APPEAR AS BUTTONS***/
@@ -98,8 +100,11 @@ a.lessonbutton:hover {
   background-color: #5cb85c;
   border:1px solid black;
   border-radius: 5px !important;
-  font-size: 1.4rem !important;
+  font-size: 1.2rem !important;
 }
+.progress-bar::after {
+  content: ' Complete! 🎉'
 .progress {
-  height: 2rem !important;
+  height: 2.5rem !important;
+  line-height: 2.3rem !important;
 }

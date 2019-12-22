@@ -23,7 +23,7 @@ margin: auto !important;
   margin: 0px !important;
   border: 1px solid grey;
   border-radius: 5px !important;
-  width:75%;
+  width:100%;
   overflow:hidden;
 }
 
@@ -113,4 +113,6 @@ a.lessonbutton:hover {
 
 #region-main-settings-menu.has-blocks, #region-main.has-blocks {
 width: 100%;
+}
+.generalbox {
 }

@@ -110,3 +110,7 @@ a.lessonbutton:hover {
   height: 2.5rem !important;
   line-height: 2.3rem !important;
 }
+
+#region-main-settings-menu.has-blocks, #region-main.has-blocks {
+width: 100%;
+}

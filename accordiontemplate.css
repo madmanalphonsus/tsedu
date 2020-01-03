@@ -1,4 +1,4 @@
-/*Copy, paste and change the colours below as required to style the bootstrap accordion as desired.*/
+/*Copy, paste and change the colours below as required to style the bootstrap accordion as desired. Should be used in conjunction with accordiontemplate.html*/
 /*Removes underline from headings of the dropdown sections inside the accordion*/
 .noUnderline {
 text-decoration: none !important;
@@ -20,5 +20,3 @@ border: solid 1px #009951 !important;
 border-left: solid 2px #138496; 
 border-right: solid 2px #138496;
 border: solid 1px #006737!important;}
-/*Styles the bottom border to be rounded as well*/
---></style>

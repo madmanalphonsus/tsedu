@@ -1,0 +1,24 @@
+/*Copy, paste and change the colours below as required to style the bootstrap accordion as desired.*/
+/*Removes underline from headings of the dropdown sections inside the accordion*/
+.noUnderline {
+text-decoration: none !important;
+}
+/*Changes colour of the headings within the accordion and also changes them on hover to show they are clickable*/
+.headingStyle {
+background: #006737 !important; 
+color: #fff !important; 
+cursor: pointer !important; 
+border: solid 1px #006737 !important;
+}
+.headingStyle:hover {
+background-color: #009951 !important;
+cursor: pointer !important;
+border: solid 1px #009951 !important;
+}
+/*Styles the border of the body of the block*/
+.cardBodyBorder {
+border-left: solid 2px #138496; 
+border-right: solid 2px #138496;
+border: solid 1px #006737!important;}
+/*Styles the bottom border to be rounded as well*/
+--></style>

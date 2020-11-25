@@ -95,3 +95,17 @@ color: #006DAE !important;
   .btn-outline-mu:not(:disabled):not(.disabled).active:focus,.btn-outline-mu:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-mu.dropdown-toggle:focus {
     box-shadow:0 0 0 .2rem rgba(0,109,174, 1);
   }
+#inst38 {
+box-shadow: none !important;
+height: 0px !important;
+margin: 0px !important;
+}
+#inst38 .action-menu, #inst38 .dropdown-toggle {
+  background: #fff !important;
+color: #fff !important;
+}
+#inst38 .card-title, #inst38 .card-body{
+background: #fff !important;
+color: #fff !important;
+  height: 0px !important;
+}

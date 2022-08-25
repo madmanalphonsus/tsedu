@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
+div.main-inner{
+   max-width: 100% !important;
+}
 .fontAwesome {
   font-size: 1.5em;
    text-decoration: none !important;
